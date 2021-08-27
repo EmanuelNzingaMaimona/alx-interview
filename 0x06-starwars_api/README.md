@@ -1,0 +1,16 @@
+# 0x06. Star Wars API
+***
+
+    __Task__
+
+    Write a script that prints all characters of a Star Wars movie:
+
+    The first positional argument passed is the Movie ID - example: 3 = “Return of the Jedi”
+    Display one character name per line in the same order as the “characters” list in the /films/ endpoint
+    You must use the Star wars API
+    You must use the request module
+
+**
+> _PEP style_ :+1:
+>> Going Deeper :muscle:
+>>> __Son of God__ :clap:
