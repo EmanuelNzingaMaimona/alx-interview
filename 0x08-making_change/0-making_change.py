@@ -1,5 +1,6 @@
 #!/usr/bin/python3
-''' A program to determine the fewest number of coins needed to meet a given amount total '''
+''' A program to determine the fewest number
+of coins needed to meet a given amount total '''
 
 
 def makeChange(coins, total):
@@ -15,4 +16,3 @@ def makeChange(coins, total):
             return change
     if total != 0:
         return -1
-
